@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import lion from './lion.jpg';
 import ThumbnailImg from './ThumbnailImg';
 
 
